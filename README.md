@@ -1,3 +1,5 @@
+![System Diagram](https://github.com/875441459/Basic-demonstraion-of-Fxlms-Algo/blob/master/PNGS/WINWORD_BUO8dqD7fx.png)
+
 # Basic-demonstraion-of-Fxlms-Algo
 Containing the basic Fxlms Algo for Broadband and narrowband active noise control(ANC)
 # Broadband ANC
@@ -10,7 +12,6 @@ Containing the basic Fxlms Algo for Broadband and narrowband active noise contro
 + **Single pure tone noise control**
   + [test_demo](https://github.com/875441459/Basic-demonstraion-of-Fxlms-Algo/blob/master/Code/ANC_Nb.m)
 
-![System Diagram]()
 # Thanks
 1. Hristo Zhivomirov [Pinknoise generator](https://www.mathworks.com/matlabcentral/fileexchange/42919-pink-red-blue-and-violet-noise-generation-with-matlab)
 
