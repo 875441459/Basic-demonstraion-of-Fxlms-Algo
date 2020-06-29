@@ -1,7 +1,9 @@
+# Basic-Demonstraion-of-Fxlms-Algo
+Containing the basic Fxlms Algo for Broadband and narrowband active noise control(ANC)
+
+# System Diagram
 ![System Diagram](https://github.com/875441459/Basic-demonstraion-of-Fxlms-Algo/blob/master/PNGS/WINWORD_BUO8dqD7fx.png)
 
-# Basic-demonstraion-of-Fxlms-Algo
-Containing the basic Fxlms Algo for Broadband and narrowband active noise control(ANC)
 # Broadband ANC
 + **Single-channel Fxlms Algo**(Basic Fxlms, 1 reference microphone, 1 secondary source and 1 error microphone)
   + [test_demo](https://github.com/875441459/Basic-demonstraion-of-Fxlms-Algo/blob/master/Code/Test_Fxlms_Bd.m)
